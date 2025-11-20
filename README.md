@@ -19,5 +19,5 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Bootstrap para a eztilização</li>
+  <li>Bootstrap para a estilização</li>
 </ul>
